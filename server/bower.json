@@ -1,0 +1,20 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-integers": "^0.2.1",
+    "purescript-maps": "^0.5.4",
+    "purescript-exceptions": "^0.3.4",
+    "purescript-express": "^0.3.0",
+    "purescript-refs": "0.2.0"
+  }
+}
